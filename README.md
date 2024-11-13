@@ -14,4 +14,3 @@ Hello! I'm Wanghong, a graduate student at Soochow University 🎓 specializing 
 
 Feel free to connect with me if you share similar interests or are curious about my work in AI. Let's innovate together! 🚀
 
-# difference
